@@ -1,3 +1,6 @@
+// Ma sinh vien : 202418941
+// Ho ten : Hà Văn Mạnh
+
 using System;
 
 namespace SmartHomeMini
